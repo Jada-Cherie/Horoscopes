@@ -1,0 +1,31 @@
+body{
+    background: url(../IMG/background.jpg);
+    background-size: cover;
+}
+h1{
+    font-size: 4rem;
+    text-align: center;
+    color: white;
+}
+#month{
+    margin-left: 35%;
+}
+#month , #day , #check{
+    margin-top: 2%;
+    width: 15%;
+    height: 43px;
+    border-radius: 4px;
+}
+#check{
+    border-radius: 4px;
+    display: block;
+    margin-left: 43%;
+    /* margin-top: 2%; */
+}
+
+
+#result{
+    font-size: 7rem;
+    color:rgb(209, 172, 25);
+    text-align: center;
+}
